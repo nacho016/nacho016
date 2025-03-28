@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🌱 I’m currently learning Software Engineering and Mathematics at URJC
-- 🔭 I’m currently working on an assignment from Data Structures subject at college
+- 🔭 I’m currently working on an assignment from 'Introducción a la Informática'.
 <!--
 **nacho016/nacho016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
